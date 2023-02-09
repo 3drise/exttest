@@ -5,7 +5,7 @@ namespace testled {
 //% blockId=ledsurP0
 //% block="lanceLED"
 //% index.min=0 index.max=25
-    { pins.digitalWritePin(DigitalPin.P0, 0)}
+  (pins.digitalWritePin(DigitalPin.P0, 0))
 
  }
 
